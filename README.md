@@ -34,7 +34,7 @@ This Tampermonkey script automates the process of booking slots on the IVAC paym
 
 ## Pre-requisites
 - **Tampermonkey Extension**: Install the [Tampermonkey browser extension](https://www.tampermonkey.net/) to use this script.
-- **IVAC Account**: Ensure you have a valid and active account on the [IVAC payment portal](https://payment.ivacbd.com/).
+
 
 ---
 
